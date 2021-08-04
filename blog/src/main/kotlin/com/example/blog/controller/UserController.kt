@@ -13,5 +13,4 @@ class UserController (
     @GetMapping("/users")
     fun getUsers() = userService.findAll()
 }
-//from commit 1
-//from commit 2
+//from commit 3
